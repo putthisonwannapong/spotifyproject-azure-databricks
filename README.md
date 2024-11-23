@@ -4,5 +4,12 @@ The project aims to build a data pipeline using Spotify API on Azure. The pipeli
 
 ### Architecture
 ![Diagram](https://github.com/putthisonwannapong/spotifyproject-azure-databricks/blob/main/image/Architecture-Diagram.png)
+
 ### Visualization
 ![Spotify Dashboard](https://github.com/putthisonwannapong/spotifyproject-azure-databricks/blob/main/image/SpotifyDashboard.PNG)
+
+### Libraries installed in Databricks  cluster
+```
+async_timeout
+spotipy
+```

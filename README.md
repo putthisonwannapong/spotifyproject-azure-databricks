@@ -3,6 +3,6 @@
 The project aims to build a data pipeline using Spotify API on Azure. The pipeline extract data from the Spotify API, load and transform track and artist data into an Azure Data Lake Storage. Lastly, create visualizations on top of the transformed data. 
 
 ### Architecture
-
+![Diagram](https://github.com/putthisonwannapong/spotifyproject-azure-databricks/blob/main/image/Architecture-Diagram.png)
 ### Visualization
 ![Spotify Dashboard](https://github.com/putthisonwannapong/spotifyproject-azure-databricks/blob/main/image/SpotifyDashboard.PNG)
